@@ -2,7 +2,6 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 colorama==0.4.6
 contourpy==1.2.1
-customtkinter==5.2.2
 cycler==0.12.1
 darkdetect==0.8.0
 filelock==3.14.0
